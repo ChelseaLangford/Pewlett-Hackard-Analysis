@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 
 ## Project Purpose 
-To prepare for a wave of upcoming retirements at a large company, an analysis was conducted to determine the number of eligible retirees by title as well as the number of employees eligible for a mentorship program based on their experience level to train new hires. Eligible retirees were defined as current employeees born between the years 1925-1955. Employees eligible for the mentorship program were defined as current employees born in the year 1965.
+To prepare for a wave of upcoming retirements at a large company, an analysis was conducted to determine the number of eligible retirees by title as well as the number of employees eligible for a mentorship program based on their experience level to train new hires. Eligible retirees were defined as current employees born between the years 1925-1955. Employees eligible for the mentorship program were defined as current employees born in the year 1965.
 
 ## Results 
 ### Eligible Retirees by Title
