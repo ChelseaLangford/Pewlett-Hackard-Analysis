@@ -5,7 +5,7 @@ To prepare for a wave of upcoming retirements at a large company, an analysis wa
 
 ## Results 
 ### Eligible Retirees by Title
-- Data from multiple tables were merged to geenrate a table of eligible retirees with their employee number, name, birth date and title included
+- Data from multiple tables were merged to generate a table of eligible retirees with their employee number, name, birth date and title included
 - This table was then used to count the number of employees by title and group by title
 - This data query determined that 90,398 employees were reaching retirement.
 - Of those eligible employees, a majority (63%) are senior employees in the roles of Senior Engineers and Senior Staff. 
